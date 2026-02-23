@@ -1,153 +1,125 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:060810,30:0a1628,70:0d2040,100:060810&height=300&section=header&text=SRIRAM%20V&fontSize=90&fontColor=e8edf8&animation=fadeIn&fontAlignY=42&desc=AI%20Engineer%20%E2%80%A2%20Cloud%20Architect%20%E2%80%A2%20Cybersecurity%20Specialist&descAlignY=62&descSize=18&descColor=5291ff&stroke=5291ff&strokeWidth=2)
+![header](./assets/header.svg)
 
-![typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=800&color=00F5D4&center=true&vCenter=true&width=900&lines=🏆+IBM+Z+Datathon+2025+—+National+2nd+Place+Winner;🤖+AI+Engineer+%7C+Healthcare+AI+%7C+LLMs+%7C+RAG+Pipelines;🛡️+Cybersecurity+Specialist+%7C+WAF+%7C+Pentest+%7C+OWASP;☁️+Cloud+%7C+AWS+%7C+GCP+%7C+Azure+%7C+IBM+Z+Mainframe;📡+IoT+Security+%7C+Arduino+%7C+MQTT+%7C+Embedded+Systems;📍+Chennai+🇮🇳+—+B.E.+CSE+Cybersecurity+2026+—+Open+to+Work!)
+![typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2500&pause=800&color=00F5D4&center=true&vCenter=true&width=900&lines=🏆+IBM+Z+Datathon+2025+—+National+2nd+Place+Winner;🤖+AI+Engineer+%7C+LLMs+%7C+RAG+Pipelines+%7C+Computer+Vision;🛡️+Cybersecurity+Specialist+%7C+WAF+%7C+Pentest+%7C+OWASP+Top+10;☁️+AWS+%7C+GCP+%7C+Azure+%7C+Docker+%7C+IBM+Z+Mainframe;📡+IoT+Security+%7C+Arduino+%7C+MQTT+%7C+Node-RED+%7C+Embedded+C;📍+Chennai+🇮🇳+—+B.E.+CSE+Cybersecurity+2026+—+Open+to+Work!)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sriram-v-38305a220/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sriramnvks@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Darkwebnew)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sriramnvks)
-[![Profile Views](https://komarev.com/ghpvc/?username=Darkwebnew&label=Profile+Views&color=5291ff&style=for-the-badge)](https://github.com/Darkwebnew)
-![Open to Work](https://img.shields.io/badge/🚀_Open_to_Work-00f5d4?style=for-the-badge)
+[![Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sriramnvks)
+[![Views](https://komarev.com/ghpvc/?username=Darkwebnew&label=Profile+Views&color=5291ff&style=for-the-badge)](https://github.com/Darkwebnew)
+![Status](https://img.shields.io/badge/🚀_Open_to_Work-00f5d4?style=for-the-badge)
+![Focus](https://img.shields.io/badge/AI_+_Cybersecurity-ff3d71?style=for-the-badge)
 
 ---
 
 ```python
 ╔══════════════════════════════════════════════════════════════╗
 ║         sriram@darkwebnew:~$ python3 whoami.py               ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  class SriramV:                                              ║
+║      name         = "Sriram V"                               ║
+║      alias        = "Darkwebnew"                             ║
+║      role         = "AI · Cloud · Cybersecurity Engineer"    ║
+║      location     = "Chennai, Tamil Nadu 🇮🇳"               ║
+║      education    = "B.E. CSE — Cybersecurity · 2022–2026"  ║
+║      college      = "Saveetha Engineering College"           ║
+║      achievement  = "🏆 IBM Z Datathon 2025 — 2nd Place"    ║
+║                                                              ║
+║      stack = {                                               ║
+║          "AI/ML"   : ["TensorFlow","PyTorch","HuggingFace"], ║
+║          "Cloud"   : ["AWS","GCP","Azure","IBM Z","Docker"], ║
+║          "Security": ["WAF","Metasploit","BurpSuite","OWASP"]║
+║          "IoT"     : ["Arduino","MQTT","Node-RED","EmbeddedC"]║
+║          "Data"    : ["NumPy","Pandas","Weka","RapidMiner"], ║
+║      }                                                       ║
+║                                                              ║
+║      currently_building = [                                  ║
+║          "🔬 LLM fine-tuning & RAG pipeline deployment",     ║
+║          "☁️  Cloud-native security architecture on AWS",    ║
+║          "🛡️  AI-powered real-time threat detection",       ║
+║      ]                                                       ║
+║                                                              ║
+║      fun_fact = "☕ Coffee → Code → Commit. A religion."     ║
+║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
-
-class SriramV:
-    name         = "Sriram V"
-    alias        = "Darkwebnew"
-    role         = "AI · Cloud · Cybersecurity Engineer"
-    location     = "Chennai, Tamil Nadu 🇮🇳"
-    education    = "B.E. CSE — Cybersecurity · Saveetha Engg College"
-    graduation   = "2026"
-    achievement  = "🏆 IBM Z Datathon 2025 — 2nd Place (National)"
-
-    stack = {
-        "AI/ML"    : ["TensorFlow","PyTorch","OpenCV","HuggingFace","CUDA"],
-        "Cloud"    : ["AWS","GCP","Azure","IBM Z Mainframe","Docker","K8s"],
-        "Security" : ["WAF","Metasploit","BurpSuite","Nmap","OWASP","Nmap"],
-        "IoT"      : ["Arduino","Raspberry Pi","MQTT","Node-RED","Embedded C"],
-        "Data"     : ["NumPy","Pandas","RapidMiner","Weka","TensorBoard"],
-    }
-
-    currently = [
-        "🔬 LLM fine-tuning & RAG pipeline deployment",
-        "☁️  Cloud-native security architecture on AWS",
-        "🛡️  AI-powered real-time threat detection engine",
-    ]
-
-    certifications = [
-        "🏆 IBM Z Datathon 2025 — 2nd Place",
-        "🤖 Generative AI — IBM/Coursera",
-        "☁️  AWS Cloud Foundations — AWS Academy",
-        "🔗 Blockchain for Business — Linux Foundation",
-        "🔐 Security for IoT — Industrial & Embedded",
-        "🎖️ Multiple Credly Verified Badges",
-    ]
-
-    fun_fact = "☕ Coffee → Code → Commit. Not a habit — a religion."
-
-    def say_hi(self):
-        print("Let's build something remarkable! 🚀")
 ```
 
 ---
 
 ## 🏆 Achievements & Certifications
 
-| 🥈 | 🎓 | ☁️ | 🔗 |
+| 🥈 IBM Z Datathon 2025 | 🤖 Generative AI | ☁️ AWS Cloud Foundations | 🔗 Blockchain for Business |
 |:---:|:---:|:---:|:---:|
-| **IBM Z Datathon 2025** | **Generative AI** | **AWS Cloud** | **Blockchain** |
-| 2nd Place · National | IBM / Coursera | AWS Academy | Linux Foundation |
-| AI Heart MRI · Clinical AI | GenAI Fundamentals | Cloud Foundations | Enterprise Blockchain |
+| **2nd Place — National** | IBM / Coursera Certified | AWS Academy | Linux Foundation |
+| AI Heart MRI Classification | GenAI Fundamentals | Cloud Essentials | Enterprise Blockchain |
 
-| 🔐 | 🎖️ | 🖥️ | 🔬 |
+| 🔐 Security for IoT | 🎖️ Credly Badges | 🖥️ IBM Z Mainframe | 🔬 6+ Open Source Projects |
 |:---:|:---:|:---:|:---:|
-| **Security for IoT** | **Credly Badges** | **IBM Z Mainframe** | **6+ Projects** |
-| Industrial & Embedded | Multiple Verified | National zSystems | All Open Source |
-| IoT Security Certified | credly.com | IBM Z Experience | GitHub Portfolio |
+| Industrial & Embedded | Multiple Verified | National zSystems | AI · Security · IoT |
+| IoT Security Certified | credly.com | IBM Z Experience | All on GitHub |
 
 ---
 
-## 🛠️ Languages
+## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+**Languages**
 
-## 🖥️ IDEs & Editors
+[![Languages](https://skillicons.dev/icons?i=python,java,c,cpp,js,bash&theme=dark)](https://skillicons.dev)
 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+**IDEs & Editors**
 
-## 🤖 AI · ML · Data Science · LLMs
+[![IDEs](https://skillicons.dev/icons?i=vscode,pycharm,jupyter&theme=dark)](https://skillicons.dev)
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+**AI · ML · Data Science**
+
+[![AI](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark)](https://skillicons.dev)
+
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![TensorBoard](https://img.shields.io/badge/TensorBoard-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![RapidMiner](https://img.shields.io/badge/RapidMiner-FF6D00?style=for-the-badge&logoColor=white)
 ![Weka](https://img.shields.io/badge/Weka-8B0000?style=for-the-badge&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
-## ☁️ Cloud · Infrastructure · DevOps
+**Cloud · Infrastructure · DevOps**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+[![Cloud](https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,linux&theme=dark)](https://skillicons.dev)
+
 ![IBM Z](https://img.shields.io/badge/IBM%20Z%20Mainframe-1261FE?style=for-the-badge&logo=ibm&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
-## 🔐 Cybersecurity · Networking · Pentesting
+**Cybersecurity · Pentesting**
 
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+[![Security](https://skillicons.dev/icons?i=kali,burpsuite&theme=dark)](https://skillicons.dev)
+
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 
-## 📡 IoT · Embedded Systems · Edge
+**IoT · Embedded Systems**
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+[![IoT](https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark)](https://skillicons.dev)
+
 ![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 ![Embedded C](https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Autodesk Forge](https://img.shields.io/badge/Autodesk%20Forge-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
 
-## 🌐 Web · Backend · Databases
+**Web · Backend · Databases**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+[![Web](https://skillicons.dev/icons?i=html,css,flask,fastapi,mysql,redis&theme=dark)](https://skillicons.dev)
 
-## 🔧 Tools · Collaboration · Productivity
+**Tools · Collaboration**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+[![Tools](https://skillicons.dev/icons?i=git,github,postman,notion&theme=dark)](https://skillicons.dev)
+
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
 
@@ -171,11 +143,11 @@ class SriramV:
 
 ### 🫀 [AI Heart MRI Classification](https://github.com/Darkwebnew/AI-Powered-Heart-MRI-Classification-for-Clinical-Decision-Support)
 
-![Award](https://img.shields.io/badge/🏆_IBM_Z_Datathon-2nd_Place_National-FFD700?style=flat-square)
+![Award](https://img.shields.io/badge/🏆_IBM_Z_Datathon_2025-2nd_Place_National-FFD700?style=flat-square)
 ![Domain](https://img.shields.io/badge/Healthcare_AI-00F5D4?style=flat-square)
-![Stack](https://img.shields.io/badge/TensorFlow_CNN_OpenCV_IBM_Z-gray?style=flat-square)
+![Stack](https://img.shields.io/badge/Python_TensorFlow_CNN_OpenCV_IBM_Z_CUDA-0D1117?style=flat-square)
 
-> National award-winning CNN for cardiac MRI classification supporting clinical decisions. Trained and deployed on IBM Z Mainframe. Reduces diagnosis time with high accuracy.
+> National award-winning CNN model for cardiac MRI classification supporting clinical decisions. Trained and deployed on IBM Z Mainframe. Reduces diagnosis time with high accuracy — built entirely for real clinical impact.
 
 ---
 
@@ -183,9 +155,9 @@ class SriramV:
 
 ![Domain](https://img.shields.io/badge/Cybersecurity_WAF-FF3D71?style=flat-square)
 ![Type](https://img.shields.io/badge/ML_Threat_Detection-5291FF?style=flat-square)
-![Stack](https://img.shields.io/badge/Flask_FastAPI_OWASP_Redis-gray?style=flat-square)
+![Stack](https://img.shields.io/badge/Python_Flask_FastAPI_OWASP_Redis-0D1117?style=flat-square)
 
-> ML-based WAF blocking SQLi, XSS, CSRF in real-time. Adaptive threat learning goes beyond signature-based filtering.
+> ML-based WAF detecting and blocking SQLi, XSS, CSRF in real-time. Adaptive threat learning goes far beyond signature-based filtering — intelligent security that evolves with new threats.
 
 ---
 
@@ -193,9 +165,9 @@ class SriramV:
 
 ![Domain](https://img.shields.io/badge/Medical_Imaging_AI-00F5D4?style=flat-square)
 ![Type](https://img.shields.io/badge/Diagnostic_AI-FF6F00?style=flat-square)
-![Stack](https://img.shields.io/badge/OpenCV_TensorFlow_Image_Processing-gray?style=flat-square)
+![Stack](https://img.shields.io/badge/Python_OpenCV_TensorFlow_Image_Processing-0D1117?style=flat-square)
 
-> AI + imaging pipeline helping clinicians interpret diagnostic scans faster and more accurately. Reduces diagnostic time significantly.
+> AI + imaging pipeline helping clinicians interpret diagnostic scans faster and with greater accuracy. Reduces diagnostic delay and supports better patient outcomes.
 
 ---
 
@@ -203,9 +175,9 @@ class SriramV:
 
 ![Domain](https://img.shields.io/badge/IoT_Assistive_Tech-5291FF?style=flat-square)
 ![Type](https://img.shields.io/badge/Embedded_Systems-4EAA25?style=flat-square)
-![Stack](https://img.shields.io/badge/Arduino_MQTT_Embedded_C-gray?style=flat-square)
+![Stack](https://img.shields.io/badge/Arduino_MQTT_Embedded_C_Ultrasonic-0D1117?style=flat-square)
 
-> IoT-powered assistive footwear with ultrasonic sensors and haptic feedback for safe, independent navigation.
+> IoT-powered assistive footwear with ultrasonic sensors and haptic feedback enabling safe, fully independent navigation for visually impaired users.
 
 ---
 
@@ -221,38 +193,6 @@ class SriramV:
 ---
 
 ## 🐍 Contribution Snake
-
-> **Setup:** Create `.github/workflows/snake.yml` in your profile repo → run the workflow → the snake appears!
-
-<details>
-<summary>📋 Click to copy snake.yml workflow</summary>
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: Darkwebnew
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
 
 ![Snake Dark](https://raw.githubusercontent.com/Darkwebnew/Darkwebnew/output/github-snake-dark.svg#gh-dark-mode-only)
 ![Snake Light](https://raw.githubusercontent.com/Darkwebnew/Darkwebnew/output/github-snake.svg#gh-light-mode-only)
@@ -288,11 +228,11 @@ jobs:
 ```bash
 sriram@darkwebnew:~$ cat fun_facts.txt
 
-[1] 🫀  IBM recognized my Heart MRI AI nationally — that moment defined my calling.
-[2] 🛡️  I built an AI WAF because security should be intelligent, not just reactive.
+[1] 🫀  IBM recognized my Heart MRI AI nationally — that defined my calling.
+[2] 🛡️  Built an AI WAF because security should be intelligent, not just reactive.
 [3] ☕  Coffee → Code → Commit is not a habit. It is a religion.
-[4] 🧠  Fixed a neural network at 2am by changing ONE hyperparameter. Worth every second.
-[5] 📡  IoT + AI = smarter cities. I want to help secure them before it is too late.
+[4] 🧠  Fixed a neural network at 2am by changing ONE hyperparameter. Worth it.
+[5] 📡  IoT + AI = smarter cities. I want to help secure them before it's too late.
 [6] 🌐  I read CVE disclosures and OWASP Top 10 updates for fun. Yes, really.
 [7] 🔁  Debug cycle: print() → Google → Stack Overflow → cry → fix → profit.
 [8] 📊  Built 3 ML models in one weekend. Two worked. Still counts as a W.
@@ -302,7 +242,7 @@ sriram@darkwebnew:~$ █
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect & Collaborate
 
 | 📧 Email | 💼 LinkedIn | 🐙 GitHub | ☕ Support |
 |:---:|:---:|:---:|:---:|
@@ -310,6 +250,6 @@ sriram@darkwebnew:~$ █
 
 **Open to:** `Internships` · `Full-time Roles` · `Research Collaborations` · `Open Source`
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00f5d4,50:5291ff,100:060810&height=150&section=footer&text=Let%27s%20build%20something%20remarkable%20together&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00f5d4,50:5291ff,100:060810&height=150&section=footer&text=Let%27s%20build%20something%20remarkable%20together&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn)
 
 *⭐ Star my repos if they helped you! · Made with ❤️ + ☕ in Chennai 🇮🇳*
