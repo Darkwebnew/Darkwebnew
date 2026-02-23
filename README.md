@@ -204,8 +204,6 @@ IoT footwear with ultrasonic sensors + haptic feedback for safe navigation.
 
 ## 📈 GitHub Statistics
 
-> 💡 **If cards show broken below** — follow the [3-step permanent fix](#-permanent-fix-for-broken-stats-cards) at the bottom of this README.
-
 <div align="center">
 
 <picture>
