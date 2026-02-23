@@ -73,57 +73,85 @@ class SriramV:
 
 ## 🛠️ Technical Arsenal
 
-### 💻 Languages
+### 💻 Languages & IDEs
+
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="45"/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
 </div>
 
 ### 🤖 AI / ML & Data Science
+
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" width="45"/>
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+
 </div>
 
 ### ☁️ Cloud & Infrastructure
+
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45"/>&nbsp;
-<img src="https://img.shields.io/badge/IBM%20Z-Mainframe-1261FE?style=for-the-badge&logo=ibm&logoColor=white" height="42"/>
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![IBM Z](https://img.shields.io/badge/IBM%20Z-Mainframe-1261FE?style=for-the-badge&logo=ibm&logoColor=white)
+
 </div>
 
 ### 🔐 Cybersecurity
+
 <div align="center">
 
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logoColor=white)
-![BurpSuite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 
 </div>
 
-### 🌐 Web & Tools
+### 🌐 Web, Backend & Databases
+
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="45"/>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+</div>
+
+### 🔧 Tools & Collaboration
+
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)
+
 </div>
 
 ---
@@ -132,11 +160,11 @@ class SriramV:
 
 ```
 AI / Machine Learning       ████████████████████  Core Strength
-Cybersecurity               ████████████████████  Specialization  
+Cybersecurity               ████████████████████  Specialization
 Python                      ████████████████████  Expert
 Cloud (AWS + IBM Z)         ████████████████░░░░  Advanced
 Healthcare AI               ████████████████░░░░  Advanced
-Web Development             ████████████░░░░░░░░  Intermediate
+Web & Backend               ████████████░░░░░░░░  Intermediate
 IoT & Embedded              ████████████░░░░░░░░  Intermediate
 LLMs & GenAI                ██████████░░░░░░░░░░  Learning Fast
 ```
@@ -207,13 +235,13 @@ IoT footwear with ultrasonic sensors + haptic feedback for safe navigation.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Darkwebnew&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5291ff&icon_color=00f5d4&text_color=8896b3&count_private=true&cache_seconds=86400"/>
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Darkwebnew&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5291ff&icon_color=00f5d4&text_color=8896b3&count_private=true&cache_seconds=86400" alt="GitHub Stats"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sage-six-15.vercel.app/api?username=Darkwebnew&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5291ff&icon_color=00f5d4&text_color=8896b3&count_private=true&cache_seconds=86400"/>
+  <img height="175" src="https://github-readme-stats-sage-six-15.vercel.app/api?username=Darkwebnew&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5291ff&icon_color=00f5d4&text_color=8896b3&count_private=true&cache_seconds=86400" alt="GitHub Stats"/>
 </picture>
 &nbsp;
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkwebnew&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5291ff&text_color=8896b3&langs_count=8&cache_seconds=86400"/>
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkwebnew&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5291ff&text_color=8896b3&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sage-six-15.vercel.app/api/top-langs/?username=Darkwebnew&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5291ff&text_color=8896b3&langs_count=8&cache_seconds=86400"/>
+  <img height="175" src="https://github-readme-stats-sage-six-15.vercel.app/api/top-langs/?username=Darkwebnew&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5291ff&text_color=8896b3&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
 </picture>
 
 <br/><br/>
@@ -240,7 +268,7 @@ IoT footwear with ultrasonic sensors + haptic feedback for safe navigation.
 
 ```
 [ DONE ]  🏆 IBM Z Datathon 2025 — 2nd Place
-[ DONE ]  🔬 6+ Open Source Projects on GitHub  
+[ DONE ]  🔬 6+ Open Source Projects on GitHub
 [ NOW  ]  🤖 LLM fine-tuning & RAG pipeline deployment
 [ NOW  ]  ☁️  Cloud-native security architecture on AWS
 [ NEXT ]  📜 CEH / AWS Security Certification
