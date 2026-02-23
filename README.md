@@ -284,32 +284,3 @@ IoT footwear with ultrasonic sensors + haptic feedback for safe navigation.
 ⭐ **Star my repos if they helped you!** · Made with ❤️ in Chennai 🇮🇳
 
 </div>
-
----
-
-## 🔧 Permanent Fix for Broken Stats Cards
-
-> **Do this once and all cards will work forever:**
-
-**Step 1** — Open each URL in your browser (logged into GitHub):
-```
-https://github-readme-stats.vercel.app/api?username=Darkwebnew
-https://streak-stats.demolab.com/?user=Darkwebnew
-https://github-profile-trophy.vercel.app/?username=Darkwebnew
-```
-If any URL shows `"User not found"` → your repos need at least **1 commit with actual code**.
-
-**Step 2** — Fork this repo (gives you your own hosted copy of the stats API):
-```
-https://github.com/anuraghazra/github-readme-stats
-```
-Then in your fork, set the `PAT_1` secret (GitHub → Settings → Secrets → Actions → New secret)
-with a GitHub Personal Access Token (Settings → Developer Settings → Tokens → `repo` scope).
-
-**Step 3** — Replace the stats image URLs in this README with your fork's URL:
-```
-https://YOUR-USERNAME.github.io/github-readme-stats/api?username=Darkwebnew
-```
-This makes stats load from YOUR repo — never broken again.
-
-**Quickest alternative:** Push real code to at least 3 repos → wait 24 hours → all cards auto-activate. ✅
