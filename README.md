@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:060810,30:0a1628,70:0d2040,100:060810&height=320&section=header&text=SRIRAM%20V&fontSize=90&fontColor=e8edf8&animation=fadeIn&fontAlignY=42&desc=Cybersecurity%20Specialist%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Cloud%20Architect&descAlignY=62&descSize=20&descColor=5291ff&stroke=5291ff&strokeWidth=2)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:060810,30:0a1628,70:0d2040,100:060810&height=320&section=header&text=SRIRAM%20V&fontSize=90&fontColor=e8edf8&animation=fadeIn&fontAlignY=42&desc=Cybersecurity%20Specialist%20%E2%80%A2%20AI%20Security%20Engineer%20%E2%80%A2%20Cloud%20Architect&descAlignY=62&descSize=20&descColor=5291ff&stroke=5291ff&strokeWidth=2)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=800&color=00F5D4&center=true&vCenter=true&width=900&lines=🏆+IBM+Z+Datathon+2025+—+National+2nd+Place+Winner;🛡️+Cybersecurity+Specialist+%7C+WAF+%7C+Pentesting+%7C+OWASP+Top+10;🤖+AI+Security+Engineer+%7C+LLMs+%7C+Healthcare+AI+%7C+RAG;☁️+Cloud+Security+%7C+AWS+%7C+GCP+%7C+Azure+%7C+IBM+Z+Mainframe;📡+IoT+Security+%7C+Embedded+Systems+%7C+Threat+Detection;📍+Chennai+🇮🇳+—+B.E.+CSE+Cybersecurity+2026+—+Open+to+Work!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=800&color=00F5D4&center=true&vCenter=true&width=900&lines=🏆+IBM+Z+Datathon+2025+—+National+2nd+Place+Winner;🛡️+Cybersecurity+Specialist+%7C+WAF+%7C+PenTest+%7C+OWASP+Top+10;🤖+AI+Security+Engineer+%7C+LLMs+%7C+Healthcare+AI+%7C+RAG;☁️+Cloud+Security+%7C+AWS+%7C+GCP+%7C+Azure+%7C+IBM+Z+Mainframe;📡+IoT+Security+%7C+Embedded+Systems+%7C+Threat+Detection;📍+Chennai+🇮🇳+—+B.E.+CSE+Cybersecurity+2026+—+Open+to+Work!" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/IBM%20Z%20Datathon-2nd%20Place%20%F0%9F%8F%86-FFD700?style=for-the-badge&logo=ibm&logoColor=white" />
 </p>
 
-> 🎯 **Looking for full-time opportunities & internships in Cybersecurity, Cloud Security, and AI-driven Threat Detection.** I build intelligent security systems that don't just defend — they adapt, evolve, and outthink attackers.
+> 🎯 **Actively seeking internships & full-time roles in Cybersecurity, Cloud Security, and AI-driven Threat Detection.** I build intelligent security systems that don't just defend — they adapt, evolve, and outthink attackers.
 
 ---
 
@@ -56,7 +56,6 @@
 ║  seeking = "Cybersecurity · AI Security Roles"  ║
 ║  motto   = "☕ Coffee → Code → Secure. Always." ║
 ║                                                  ║
-║  print("sriramnvks@gmail.com · Let's build! 🚀") ║
 ╚══════════════════════════════════════════════════╝
 ```
 
@@ -74,11 +73,11 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Cloud%20Security-AWS%20%7C%20Azure%20%7C%20GCP%20%7C%20IAM%20%7C%20SIEM-5291FF?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20Security-Threat%20Detection%20%7C%20Anomaly%20ML%20%7C%20WAF-FFD700?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Threat%20Detection-Anomaly%20ML%20%7C%20WAF%20%7C%20Adaptive%20Defense-FFD700?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Network%20Security-Wireshark%20%7C%20Nmap%20%7C%20Nessus%20%7C%20Aircrack-FF6B35?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/IoT%20Security-Embedded%20Defense%20%7C%20MQTT%20%7C%20Zigbee-4EAA25?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/IoT%20Security-Embedded%20Defense%20%7C%20MQTT%20%7C%20Edge-4EAA25?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
 
 ---
@@ -88,28 +87,25 @@
 ## 🏆 Achievements & Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🥈%20IBM%20Z%20Datathon%202025-2nd%20Place%20%E2%80%A2%20National%20Level-FFD700?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/🥈%20IBM%20Z%20Datathon%202025-2nd%20Place%20National-FFD700?style=for-the-badge&logo=ibm&logoColor=white" />
   <img src="https://img.shields.io/badge/🤖%20Generative%20AI-IBM%20%2F%20Coursera%20Certified-00F5D4?style=for-the-badge&logo=coursera&logoColor=white" />
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/☁️%20AWS%20Cloud%20Foundations-AWS%20Academy%20Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/🔗%20Blockchain%20for%20Business-Linux%20Foundation-5291FF?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/🔐%20Security%20for%20IoT-Industrial%20%26%20Embedded%20Systems-FF3D71?style=for-the-badge&logo=hackthebox&logoColor=white" />
   <img src="https://img.shields.io/badge/🎖️%20Credly%20Badges-Multiple%20Verified%20Digital%20Badges-FF6B35?style=for-the-badge&logo=credly&logoColor=white" />
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/🖥️%20IBM%20Z%20Mainframe-National%20Level%20zSystems%20Experience-1261FE?style=for-the-badge&logo=ibm&logoColor=white" />
   <img src="https://img.shields.io/badge/🔬%206%2B%20Open%20Source%20Projects-AI%20%C2%B7%20Security%20%C2%B7%20IoT%20%C2%B7%20Healthcare-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/🎯%20CEH-Certified%20Ethical%20Hacker%20(In%20Progress)-red?style=for-the-badge&logo=ec-council&logoColor=white" />
+  <img src="https://img.shields.io/badge/🎯%20CEH-Certified%20Ethical%20Hacker%20(In%20Progress)-CC0000?style=for-the-badge&logo=ec-council&logoColor=white" />
   <img src="https://img.shields.io/badge/🎯%20AWS%20Security%20Specialty-In%20Progress-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/🎯%20OSCP%20Prep-In%20Progress-557C94?style=for-the-badge&logo=offensive-security&logoColor=white" />
 </p>
 
 ---
@@ -140,13 +136,13 @@
 
 <br>
 
-### 🛡️ AI Web Application Firewall ← *Flagship Security Project*
+### 🛡️ AI Web Application Firewall &nbsp;←&nbsp; *Flagship Security Project*
 
 <p>
   <img src="https://img.shields.io/badge/Domain-Cybersecurity%20WAF-FF3D71?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Type-ML%20Threat%20Detection-5291FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Real--time%20Blocking-00F5D4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Defense-SQLi%20%7C%20XSS%20%7C%20CSRF%20%7C%20Zero--Day-FF3D71?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Covers-OWASP%20Top%2010%20%7C%20Zero--Day-FF3D71?style=for-the-badge" />
 </p>
 
 <p>
@@ -158,9 +154,9 @@
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
 
-> 🔒 ML-powered WAF detecting & blocking **SQLi, XSS, CSRF, and zero-day exploits** in real-time with adaptive threat learning. Goes far beyond signature-based filtering — security that evolves with new attack patterns automatically, reducing false positives while maintaining sub-millisecond response.
+> 🔒 ML-powered WAF detecting & blocking **SQLi, XSS, CSRF, and zero-day exploits** in real-time. Adaptive threat learning far beyond signature-based filtering — security that evolves with new attack patterns automatically.
 >
-> **Attack/Defense Focus:** Real-time detection of OWASP Top 10 attacks in cloud-native apps. Adaptive ML model retrained on live traffic to stay ahead of emerging threats.
+> **⚔️ Attack/Defense Focus:** Real-time detection of the full OWASP Top 10 in cloud-native apps. ML model continuously retrained on live traffic to stay ahead of emerging threats while minimizing false positives.
 
 <a href="https://github.com/Darkwebnew/AI-Powered-Advanced-Web-Application-Firewall"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <img src="https://img.shields.io/github/stars/Darkwebnew/AI-Powered-Advanced-Web-Application-Firewall?style=for-the-badge&color=FFD700&logo=github&logoColor=white" />
@@ -170,22 +166,22 @@
 ### 🌐 Cloud-Native Security Monitor
 
 <p>
-  <img src="https://img.shields.io/badge/Domain-Cloud%20Security-0078D4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Type-Threat%20Intelligence%20%26%20SIEM-FF3D71?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Domain-Cloud%20Security%20%26%20SIEM-0078D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Type-Threat%20Intelligence%20%26%20Alerting-FF3D71?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Automated%20Incident%20Response-00F5D4?style=for-the-badge" />
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </p>
 
-> ☁️ Real-time cloud infrastructure security monitoring dashboard with **automated threat alerting, anomaly detection, and incident response** on AWS. Monitors IAM, VPC, and workload activity across multi-cloud environments. Built for DevSecOps pipelines.
+> ☁️ Real-time cloud infrastructure security monitoring dashboard with **automated threat alerting, anomaly detection, and incident response** on AWS. Monitors IAM, VPC, and workload activity across multi-cloud environments — built for DevSecOps pipelines.
 >
-> **Attack/Defense Focus:** Detects privilege escalation, lateral movement, and data exfiltration patterns using ML-based behavioral baselines.
+> **⚔️ Attack/Defense Focus:** Detects privilege escalation, lateral movement, and data exfiltration patterns using ML-based behavioral baselines.
 
 <a href="https://github.com/Darkwebnew"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
@@ -193,7 +189,7 @@
 
 <img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 
-### 🫀 AI Heart MRI Classification ← *IBM Z Datathon 2nd Place*
+### 🫀 AI Heart MRI Classification &nbsp;←&nbsp; *IBM Z Datathon 2nd Place*
 
 <p>
   <img src="https://img.shields.io/badge/🏆%20IBM%20Z%20Datathon%202025-2nd%20Place%20National-FFD700?style=for-the-badge&logo=ibm&logoColor=white" />
@@ -209,7 +205,7 @@
   <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
-> 🥇 National award-winning CNN for cardiac MRI classification supporting clinical decisions. Trained & deployed on **IBM Z Mainframe**. Reduces diagnosis time significantly — built for real clinical impact at national scale.
+> 🥇 National award-winning CNN for cardiac MRI classification supporting clinical decisions. Trained & deployed on **IBM Z Mainframe** with secured patient data pipelines. Reduces diagnosis time significantly — built for real clinical impact at national scale.
 
 <a href="https://github.com/Darkwebnew/AI-Powered-Heart-MRI-Classification-for-Clinical-Decision-Support"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <img src="https://img.shields.io/github/stars/Darkwebnew/AI-Powered-Heart-MRI-Classification-for-Clinical-Decision-Support?style=for-the-badge&color=FFD700&logo=github&logoColor=white" />
@@ -244,9 +240,9 @@
 ### 👟 Smart Footwear for Visually Impaired
 
 <p>
-  <img src="https://img.shields.io/badge/Domain-IoT%20Assistive%20Technology-5291FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Type-Embedded%20Systems-4EAA25?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Security-Secure%20MQTT%20%7C%20Encrypted%20Data-FF3D71?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Domain-IoT%20Security%20%26%20Assistive%20Tech-5291FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Type-Secure%20Embedded%20Systems-4EAA25?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Security-Encrypted%20MQTT%20%7C%20Edge%20Defense-FF3D71?style=for-the-badge" />
 </p>
 
 <p>
@@ -257,7 +253,7 @@
   <img src="https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white" />
 </p>
 
-> 👟 IoT footwear with ultrasonic sensors and haptic feedback enabling safe, fully independent navigation for visually impaired users. Designed for real-world deployment with secure, encrypted device communication.
+> 👟 IoT footwear with ultrasonic sensors and haptic feedback enabling safe, fully independent navigation for visually impaired users. Built with **secure, encrypted device communication** and edge-side threat handling.
 
 <a href="https://github.com/Darkwebnew/Design-And-Modelling-Of-Footwear-For-Visually-Impared"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <img src="https://img.shields.io/github/stars/Darkwebnew/Design-And-Modelling-Of-Footwear-For-Visually-Impared?style=for-the-badge&color=FFD700&logo=github&logoColor=white" />
@@ -267,9 +263,9 @@
 ### 🔍 Blockchain-based Certificate Verification
 
 <p>
-  <img src="https://img.shields.io/badge/Domain-Blockchain%20%7C%20Web3-FF9900?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Domain-Blockchain%20%7C%20Anti--Fraud%20Security-FF9900?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Type-Decentralized%20App-5291FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Anti--Fraud%20%7C%20Tamper--Proof%20Records-00F5D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Tamper--Proof%20%7C%20Immutable%20Records-00F5D4?style=for-the-badge" />
 </p>
 
 <p>
@@ -279,7 +275,7 @@
   <img src="https://img.shields.io/badge/Linux%20Foundation-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-> 🔗 Decentralized certificate verification system using blockchain principles to prevent academic fraud. Immutable records, instant verification, tamper-proof credentials — addressing real-world document forgery threats.
+> 🔗 Decentralized certificate verification using blockchain to prevent academic credential fraud. Immutable records, instant verification, and tamper-proof credentials — solving a real-world document forgery problem.
 
 <a href="https://github.com/Darkwebnew"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
@@ -298,10 +294,9 @@
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white" />
   <img src="https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white" />
   <img src="https://img.shields.io/badge/John%20the%20Ripper-CC0000?style=for-the-badge&logo=hackthebox&logoColor=white" />
@@ -318,7 +313,6 @@
   <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/IBM%20Z%20Mainframe-1261FE?style=for-the-badge&logo=ibm&logoColor=white" />
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
@@ -340,11 +334,9 @@
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
   <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" />
@@ -389,7 +381,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
@@ -409,6 +400,7 @@
   <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </p>
 
 ---
@@ -424,9 +416,9 @@
 ║  Skill                     ║  Level                 ║  Status       ║
 ╠════════════════════════════╬════════════════════════╬═══════════════╣
 ║  Cybersecurity             ║  ████████████████████  ║  Expert       ║
-║  AI / Machine Learning     ║  ████████████████████  ║  Expert       ║
-║  Python                    ║  ████████████████████  ║  Expert       ║
 ║  Penetration Testing       ║  ████████████████████  ║  Expert       ║
+║  Python                    ║  ████████████████████  ║  Expert       ║
+║  AI / Machine Learning     ║  ████████████████████  ║  Expert       ║
 ║  Cloud Security (AWS+IBM Z)║  ████████████████░░░░  ║  Advanced     ║
 ║  Web App Security / WAF    ║  ████████████████░░░░  ║  Advanced     ║
 ║  Healthcare AI             ║  ████████████████░░░░  ║  Advanced     ║
@@ -477,11 +469,12 @@
 ║  [ 🔄 NOW  ]  🛡️  AI-powered Real-time Threat Detection Engine ║
 ║  [ 🎯 NEXT ]  📜 CEH — Certified Ethical Hacker                 ║
 ║  [ 🎯 NEXT ]  📜 AWS Security Specialty Certification           ║
-║  [ 🎯 NEXT ]  💼 Cybersecurity / AI Security Internship         ║
+║  [ 🎯 NEXT ]  💀 OSCP / Advanced Penetration Testing            ║
 ║  [ 🎯 NEXT ]  🔴 HackTheBox Pro Hacker Rank                     ║
-║  [ 🎯 NEXT ]  📊 Top 10% on a Kaggle Competition                ║
+║  [ 🎯 NEXT ]  💼 Cybersecurity / AI Security Internship         ║
+║  [ 🎯 NEXT ]  📊 Top 10% on a Kaggle Security Competition       ║
 ║  [ 🎯 NEXT ]  ✍️  Tech Blogs: WAF · Cloud Sec · Healthcare AI  ║
-║  [ 🎯 NEXT ]  🌐 Personal Security Portfolio Website Launch     ║
+║  [ 🎯 NEXT ]  🌐 Security Portfolio Website Launch              ║
 ║  [ 🎯 NEXT ]  🤝 Speak at a Cybersecurity / AI Conference       ║
 ║  [ 🚀 GOAL ]  Full-time Cybersecurity or AI Security Role 2026  ║
 ╚══════════════════════════════════════════════════════════════════╝
@@ -498,20 +491,20 @@
 ```bash
 sriram@darkwebnew:~$ cat fun_facts.txt
 
-  [01] 🛡️  Built an AI WAF — security must be intelligent, not just reactive.
+  [01] 🛡️  Built an AI WAF — because security must be intelligent, not just reactive.
   [02] 🫀  IBM recognized my Heart MRI AI nationally — that defined my calling.
   [03] ☕  Coffee → Code → Commit. Not a habit. A religion.
   [04] 🌐  I read CVE disclosures and OWASP Top 10 updates for fun. Yes, really.
   [05] 🔐  I treat every CVE like a puzzle. Most people see threats; I see solutions.
-  [06] 📡  IoT + AI = smarter cities. I want to help secure them first.
-  [07] 🧠  Fixed a neural net at 2am by changing ONE hyperparameter. Worth it.
-  [08] 🔁  Debug cycle: print() → Google → Stack Overflow → cry → fix → profit.
-  [09] 📊  3 ML models in one weekend. Two worked. Still counts as a W.
-  [10] 🎯  I don't just learn tech — I build things that actually matter.
-  [11] 🚀  My goal: secure the world's AI systems before someone else breaks them.
-  [12] 🏆  Competing nationally at 20 taught me pressure is just skill waiting to form.
-  [13] 🔍  Daily OWASP Top 10 review & CVE analysis keeps me ahead of emerging threats.
-  [14] 💀  HackTheBox & CTF challenges — because offense teaches the best defense.
+  [06] 💀  HackTheBox & CTF challenges — offense teaches the best defense.
+  [07] 📡  IoT + AI = smarter cities. I want to help secure them before attackers can.
+  [08] 🧠  Fixed a neural net at 2am by changing ONE hyperparameter. Worth it.
+  [09] 🔁  Debug cycle: print() → Google → Stack Overflow → cry → fix → profit.
+  [10] 📊  3 ML models in one weekend. Two worked. Still counts as a W.
+  [11] 🎯  I don't just learn tech — I build things that actually matter.
+  [12] 🚀  My goal: secure the world's AI systems before someone else breaks them.
+  [13] 🏆  Competing nationally at 20 taught me pressure is just skill waiting to form.
+  [14] 🔍  Daily CVE analysis & OWASP review — staying one step ahead of every threat.
 
 sriram@darkwebnew:~$ █
 ```
@@ -544,7 +537,7 @@ sriram@darkwebnew:~$ █
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="50" />
   &nbsp;&nbsp;
-  <b>I love connecting with people from all over the world — say hi, let's build together! 🚀</b>
+  <b>I love connecting with people from all over the world — say hi, let's build & secure together! 🚀</b>
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00f5d4,50:5291ff,100:060810&height=160&section=footer&text=Let%27s%20build%20something%20remarkable%20together&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=fadeIn)
