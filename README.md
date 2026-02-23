@@ -118,7 +118,15 @@
 ## 🌟 GitHub Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Darkwebnew&layout=donut&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5291ff&text_color=8896b3&langs_count=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Darkwebnew&theme=github_dark" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Darkwebnew&theme=github_dark" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Darkwebnew&theme=github_dark" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Darkwebnew&theme=github_dark&utcOffset=5.5" />
 </p>
 
 ---
