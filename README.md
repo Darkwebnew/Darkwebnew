@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:060810,50:5291ff,100:00f5d4&height=280&section=header&text=SRIRAM%20V&fontSize=90&fontColor=00f5d4&animation=fadeIn&fontAlignY=50&stroke=00f5d4&strokeWidth=3"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:060810,50:5291ff,100:00f5d4&height=280&section=header&text=SRIRAM%20V&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=50"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=800&color=00F5D4&center=true&vCenter=true&width=900&lines=Cybersecurity+Specialist+%7C+AI+Security+Engineer+%7C+Cloud+Architect;IBM+Z+Datathon+2025+%E2%80%94+National+2nd+Place+Winner;Cybersecurity+Specialist+%7C+WAF+%7C+PenTest+%7C+OWASP+Top+10;AI+Security+Engineer+%7C+LLMs+%7C+Healthcare+AI+%7C+RAG;Cloud+Security+%7C+AWS+%7C+GCP+%7C+Azure+%7C+IBM+Z+Mainframe;IoT+Security+%7C+Embedded+Systems+%7C+Threat+Detection;Chennai+%E2%80%94+B.E.+CSE+Cybersecurity+2026+%E2%80%94+Open+to+Work!" alt="Typing SVG" />
