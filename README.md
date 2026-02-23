@@ -1,15 +1,15 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:060810,30:0a1628,70:0d2040,100:060810&height=320&section=header&text=SRIRAM%20V&fontSize=90&fontColor=e8edf8&animation=fadeIn&fontAlignY=42&desc=Cybersecurity%20Specialist%20%E2%80%A2%20AI%20Security%20Engineer%20%E2%80%A2%20Cloud%20Architect&descAlignY=62&descSize=20&descColor=5291ff&stroke=5291ff&strokeWidth=2)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:060810,50:5291ff,100:00f5d4&height=280&section=header&text=SRIRAM%20V&fontSize=90&fontColor=00f5d4&animation=fadeIn&fontAlignY=50&stroke=00f5d4&strokeWidth=3"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=800&color=00F5D4&center=true&vCenter=true&width=900&lines=🏆+IBM+Z+Datathon+2025+—+National+2nd+Place+Winner;🛡️+Cybersecurity+Specialist+%7C+WAF+%7C+PenTest+%7C+OWASP+Top+10;🤖+AI+Security+Engineer+%7C+LLMs+%7C+Healthcare+AI+%7C+RAG;☁️+Cloud+Security+%7C+AWS+%7C+GCP+%7C+Azure+%7C+IBM+Z+Mainframe;📡+IoT+Security+%7C+Embedded+Systems+%7C+Threat+Detection;📍+Chennai+🇮🇳+—+B.E.+CSE+Cybersecurity+2026+—+Open+to+Work!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=800&color=00F5D4&center=true&vCenter=true&width=900&lines=Cybersecurity+Specialist+%7C+AI+Security+Engineer+%7C+Cloud+Architect;IBM+Z+Datathon+2025+%E2%80%94+National+2nd+Place+Winner;Cybersecurity+Specialist+%7C+WAF+%7C+PenTest+%7C+OWASP+Top+10;AI+Security+Engineer+%7C+LLMs+%7C+Healthcare+AI+%7C+RAG;Cloud+Security+%7C+AWS+%7C+GCP+%7C+Azure+%7C+IBM+Z+Mainframe;IoT+Security+%7C+Embedded+Systems+%7C+Threat+Detection;Chennai+%E2%80%94+B.E.+CSE+Cybersecurity+2026+%E2%80%94+Open+to+Work!" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sriram-v-38305a220/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sriramnvks@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Darkwebnew"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://buymeacoffee.com/sriramnvks"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Darkwebnew&label=Profile+Views&color=5291ff&style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/sriram-v-38305a220/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:sriramnvks@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://github.com/Darkwebnew"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://buymeacoffee.com/sriramnvks"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Darkwebnew&label=Profile+Views&color=5291ff&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -25,18 +25,21 @@
 
 <br>
 
-<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+<picture>
+  <source media="(max-width: 768px)" srcset="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" />
+  <img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="coding gif" />
+</picture>
 
 ```python
 ╔══════════════════════════════════════════════════╗
-║  sriram@darkwebnew:~$ python3 whoami.py           ║
+║  sriram@darkwebnew:~$ python3 whoami.py          ║
 ╠══════════════════════════════════════════════════╣
 ║                                                  ║
 ║  name     = "Sriram V"                           ║
 ║  alias    = "Darkwebnew"                         ║
-║  degree   = "B.E. CSE — Cybersecurity · 2026"   ║
+║  degree   = "B.E. CSE — Cybersecurity · 2026"    ║
 ║  college  = "Saveetha Engineering College"       ║
-║  location = "Chennai, Tamil Nadu 🇮🇳"           ║
+║  location = "Chennai, Tamil Nadu 🇮🇳"             ║
 ║  prize    = "🏆 IBM Z Datathon 2025 · 2nd Place"║
 ║                                                  ║
 ║  security_focus = [                              ║
@@ -53,8 +56,8 @@
 ║    "Cloud-native security architecture on AWS",  ║
 ║  ]                                               ║
 ║                                                  ║
-║  seeking = "Cybersecurity · AI Security Roles"  ║
-║  motto   = "☕ Coffee → Code → Secure. Always." ║
+║  seeking = "Cybersecurity · AI Security Roles"   ║
+║  motto   = "☕ Coffee → Code → Secure. Always."  ║
 ║                                                  ║
 ╚══════════════════════════════════════════════════╝
 ```
@@ -68,16 +71,16 @@
 ## 🔐 Core Security Expertise
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Penetration%20Testing-Kali%20Linux%20%7C%20Metasploit%20%7C%20Burp%20Suite-FF3D71?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web%20Security-OWASP%20Top%2010%20%7C%20SQLi%20%7C%20XSS%20%7C%20CSRF-00F5D4?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Penetration%20Testing-Kali%20Linux%20%7C%20Metasploit%20%7C%20Burp%20Suite-FF3D71?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Penetration Testing" />
+  <img src="https://img.shields.io/badge/Web%20Security-OWASP%20Top%2010%20%7C%20SQLi%20%7C%20XSS%20%7C%20CSRF-00F5D4?style=for-the-badge&logo=owasp&logoColor=white" alt="Web Security" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Cloud%20Security-AWS%20%7C%20Azure%20%7C%20GCP%20%7C%20IAM%20%7C%20SIEM-5291FF?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20Threat%20Detection-Anomaly%20ML%20%7C%20WAF%20%7C%20Adaptive%20Defense-FFD700?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud%20Security-AWS%20%7C%20Azure%20%7C%20GCP%20%7C%20IAM%20%7C%20SIEM-5291FF?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Cloud Security" />
+  <img src="https://img.shields.io/badge/AI%20Threat%20Detection-Anomaly%20ML%20%7C%20WAF%20%7C%20Adaptive%20Defense-FFD700?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI Threat Detection" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Network%20Security-Wireshark%20%7C%20Nmap%20%7C%20Nessus%20%7C%20Aircrack-FF6B35?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/IoT%20Security-Embedded%20Defense%20%7C%20MQTT%20%7C%20Edge-4EAA25?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Network%20Security-Wireshark%20%7C%20Nmap%20%7C%20Nessus%20%7C%20Aircrack-FF6B35?style=for-the-badge&logo=wireshark&logoColor=white" alt="Network Security" />
+  <img src="https://img.shields.io/badge/IoT%20Security-Embedded%20Defense%20%7C%20MQTT%20%7C%20Edge-4EAA25?style=for-the-badge&logo=arduino&logoColor=white" alt="IoT Security" />
 </p>
 
 ---
@@ -112,20 +115,23 @@
 
 <br>
 
-## 🌟 GitHub Trophies
+## 🌟 GitHub Highlights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Darkwebnew&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Darkwebnew&layout=donut&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5291ff&text_color=8896b3&langs_count=8" />
 </p>
 
 ---
 
 <br>
 
-## 💬 Quote of the Day
+## 🔥 Currently Obsessed With
 
 <p align="center">
-  <img src="https://quotes-github-profile.vercel.app/api?type=horizontal&theme=dark" />
+  <img src="https://img.shields.io/badge/Reading-CVE%20Disclosures%20Daily-FF3D71?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Practicing-HackTheBox%20%26%20CTF%20Labs-5291ff?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Building-AI%20Threat%20Detection%20Engine-00F5D4?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Studying-OWASP%20Top%2010%20Updates-FFD700?style=for-the-badge&logo=owasp&logoColor=white" />
 </p>
 
 ---
@@ -187,7 +193,10 @@
 
 <br><br>
 
-<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+<picture>
+  <source media="(max-width: 768px)" srcset="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+  <img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="code gif" />
+</picture>
 
 ### 🫀 AI Heart MRI Classification &nbsp;←&nbsp; *IBM Z Datathon 2nd Place*
 
@@ -410,7 +419,7 @@
 ## 📊 Skill Depth Map
 
 ```
-╔══════════════════════════════════════════════════════════════════════╗
+╔═════════════════════════════════════════════════════════════════════╗
 ║                      SKILL DEPTH ANALYSIS                           ║
 ╠════════════════════════════╦════════════════════════╦═══════════════╣
 ║  Skill                     ║  Level                 ║  Status       ║
@@ -437,16 +446,16 @@
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img height="195" src="https://github-readme-stats-sage-six-15.vercel.app/api?username=Darkwebnew&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5291ff&icon_color=00f5d4&text_color=8896b3&count_private=true&include_all_commits=true&rank_icon=github" />
-  <img height="195" src="https://github-readme-stats-sage-six-15.vercel.app/api/top-langs/?username=Darkwebnew&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5291ff&text_color=8896b3&langs_count=8" />
+  <img height="180" src="https://github-readme-stats-sage-six-15.vercel.app/api?username=Darkwebnew&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5291ff&icon_color=00f5d4&text_color=8896b3&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" style="max-width:100%;" />
+  <img height="180" src="https://github-readme-stats-sage-six-15.vercel.app/api/top-langs/?username=Darkwebnew&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5291ff&text_color=8896b3&langs_count=8" alt="Top Languages" style="max-width:100%;" />
 </p>
 
 <p align="center">
-  <img width="68%" src="https://streak-stats.demolab.com/?user=Darkwebnew&theme=dark&hide_border=true&background=0D1117&ring=5291ff&fire=00f5d4&currStreakLabel=5291ff&sideLabels=8896b3&dates=8896b3" />
+  <img width="65%" src="https://streak-stats.demolab.com/?user=Darkwebnew&theme=dark&hide_border=true&background=0D1117&ring=5291ff&fire=00f5d4&currStreakLabel=5291ff&sideLabels=8896b3&dates=8896b3" alt="GitHub Streak" style="max-width:100%;" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Darkwebnew&theme=react-dark&hide_border=true&bg_color=0D1117&color=5291ff&line=00f5d4&point=ff3d71&area=true&custom_title=Sriram%27s%20GitHub%20Activity%20Graph" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Darkwebnew&theme=react-dark&hide_border=true&bg_color=0D1117&color=5291ff&line=00f5d4&point=ff3d71&area=true&custom_title=Sriram%27s%20GitHub%20Activity%20Graph" alt="GitHub Activity Graph" style="max-width:100%;" />
 </p>
 
 ---
@@ -457,7 +466,7 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║                    SRIRAM V — 2026 TARGETS                      ║
+║                    SRIRAM V — 2026 TARGETS                       ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║  [ ✅ DONE ]  🏆 IBM Z Datathon 2025 — 2nd Place National       ║
 ║  [ ✅ DONE ]  🔬 6+ Open Source Projects on GitHub              ║
@@ -466,17 +475,17 @@
 ║  [ ✅ DONE ]  🖥️  IBM Z Mainframe National-Level Experience     ║
 ║  [ 🔄 NOW  ]  🤖 LLM Fine-tuning & RAG Security Pipelines       ║
 ║  [ 🔄 NOW  ]  ☁️  Cloud-native Security Architecture on AWS     ║
-║  [ 🔄 NOW  ]  🛡️  AI-powered Real-time Threat Detection Engine ║
+║  [ 🔄 NOW  ]  🛡️  AI-powered Real-time Threat Detection Engine  ║
 ║  [ 🎯 NEXT ]  📜 CEH — Certified Ethical Hacker                 ║
 ║  [ 🎯 NEXT ]  📜 AWS Security Specialty Certification           ║
 ║  [ 🎯 NEXT ]  💀 OSCP / Advanced Penetration Testing            ║
 ║  [ 🎯 NEXT ]  🔴 HackTheBox Pro Hacker Rank                     ║
 ║  [ 🎯 NEXT ]  💼 Cybersecurity / AI Security Internship         ║
 ║  [ 🎯 NEXT ]  📊 Top 10% on a Kaggle Security Competition       ║
-║  [ 🎯 NEXT ]  ✍️  Tech Blogs: WAF · Cloud Sec · Healthcare AI  ║
+║  [ 🎯 NEXT ]  ✍️  Tech Blogs: WAF · Cloud Sec · Healthcare AI   ║
 ║  [ 🎯 NEXT ]  🌐 Security Portfolio Website Launch              ║
 ║  [ 🎯 NEXT ]  🤝 Speak at a Cybersecurity / AI Conference       ║
-║  [ 🚀 GOAL ]  Full-time Cybersecurity or AI Security Role 2026  ║
+║  [ 🚀 GOAL ]  Full-time Cybersecurity or AI Security Role 2026   ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
@@ -507,8 +516,6 @@ sriram@darkwebnew:~$ cat fun_facts.txt
 sriram@darkwebnew:~$ █
 ```
 
-<br clear="right" />
-
 ---
 
 <br>
@@ -516,13 +523,13 @@ sriram@darkwebnew:~$ █
 ## 📫 Let's Connect & Collaborate
 
 <p align="center">
-  <a href="mailto:sriramnvks@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-sriramnvks%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/sriram-v-38305a220/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-Sriram%20V-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:sriramnvks@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-sriramnvks%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/sriram-v-38305a220/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-Sriram%20V-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Darkwebnew"><img src="https://img.shields.io/badge/Follow%20on%20GitHub-%40Darkwebnew-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://buymeacoffee.com/sriramnvks"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Fuel%20the%20Code-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://github.com/Darkwebnew"><img src="https://img.shields.io/badge/Follow%20on%20GitHub-%40Darkwebnew-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://buymeacoffee.com/sriramnvks"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Fuel%20the%20Code-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" /></a>
 </p>
 
 <p align="center">
@@ -536,7 +543,7 @@ sriram@darkwebnew:~$ █
   <b>I love connecting with people from all over the world — say hi, let's build & secure together! 🚀</b>
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00f5d4,50:5291ff,100:060810&height=160&section=footer&text=Let%27s%20build%20something%20remarkable%20together&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=fadeIn)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5d4,50:5291ff,100:060810&height=160&section=footer&text=Let%27s%20build%20something%20remarkable%20together&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
 
 <p align="center">
   <em>⭐ Star my repos if they helped you! · Made with ❤️ + ☕ in Chennai 🇮🇳 · <a href="https://github.com/Darkwebnew">@Darkwebnew</a></em>
