@@ -471,7 +471,10 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/Darkwebnew/Darkwebnew/blob/output/github-snake.svg" />
+  <img 
+    src="https://github.com/Darkwebnew/Darkwebnew/blob/output/neon.gif"
+    style="filter: drop-shadow(0 0 25px #00f5d4);"
+  />
 </p>
 
 ---
