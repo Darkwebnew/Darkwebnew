@@ -468,6 +468,14 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Darkwebnew/Darkwebnew/blob/output/github-snake.svg" />
+</p>
+
+---
+
 <br>
 
 ## 🎯 2026 Roadmap
