@@ -1,9 +1,9 @@
-name: GitHub Snake Game
+name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # daily at midnight UTC
-  workflow_dispatch:        # manual trigger
+    - cron: "0 0 * * *"   # daily
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -15,23 +15,25 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Generate GitHub Contributions Snake Animations
+      - name: Generate Snake Animations
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/neon.svg
-            dist/neon.gif
-          # Snake color – your main accent
-          color_snake: "#00f5d4"
-          # Contribution dot colors – from lowest to highest activity
-          color_dots: "#060810, #0d1117, #1a1f2e, #5291ff, #00f5d4"
 
-      - name: Deploy to Output Branch
+          # Generate BOTH light + dark versions
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+          # Optional: your neon snake color
+          color_snake: "#00f5d4"
+
+      - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
