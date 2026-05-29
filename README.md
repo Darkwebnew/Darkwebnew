@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:060810,30:0a1628,70:0d2040,100:00f5d4&height=220&section=header&text=SRIRAM%20V&fontSize=80&fontColor=00f5d4&fontAlignY=38&desc=AI%20Security%20Engineer%20%20%E2%80%A2%20%20Cybersecurity%20Specialist%20%20%E2%80%A2%20%20Cloud%20Architect&descSize=15&descColor=c9d1d9&descAlignY=60&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=1200&color=00F5D4&center=true&vCenter=true&width=800&height=28&lines=%5B+PRIZE+%5D+IBM+Z+Datathon+2025+—+National+2nd+Place+%7C+%24500+%2B+IBM+Mentorship;%5B+PAPER+%5D+2+IEEE+Publications+%7C+WAF+AI+%2B+CSSS;%5B+BUILD+%5D+12%2B+Projects+%7C+50%2B+Certs+%7C+195%2B+Repos;%5B+EDGE+%5D+Mechatronics+81%25+%2B+B.E.+Cybersecurity+%3D+Hardware+%2B+Secure;%5B+STATUS+%5D+Open+to+Work+—+Chennai+🇮🇳" alt="Typing"/>
+<img src="https://readme-typing-svg.vercel.app?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=1200&color=00F5D4&center=true&vCenter=true&width=800&height=28&lines=%5B+PRIZE+%5D+IBM+Z+Datathon+2025+—+National+2nd+Place+%7C+%24500+%2B+IBM+Mentorship;%5B+PAPER+%5D+2+IEEE+Publications+%7C+WAF+AI+%2B+CSSS;%5B+BUILD+%5D+12%2B+Projects+%7C+50%2B+Certs+%7C+195%2B+Repos;%5B+EDGE+%5D+Mechatronics+81%25+%2B+B.E.+Cybersecurity+%3D+Hardware+%2B+Secure;%5B+STATUS+%5D+Open+to+Work+—+Chennai+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG"/>
 
 <br/>
 
@@ -608,50 +608,18 @@ ATS score, keyword gap analysis, resume builder (4 templates), LinkedIn scraping
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h2 align="center">🎖️ Community & Teaching</h2>
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="25%">
-
-**🔓 Account Recovery**
-<br/><br/>
-Recovered hacked Facebook & email accounts — bypassed locked 2FA using only Linux and free tools. No paid services.
-
-</td>
-<td align="center" width="25%">
-
-**📱 Phone Tracing**
-<br/><br/>
-Traced lost and stolen mobile phones for people using only Linux tools. Real results. Completely free.
-
-</td>
-<td align="center" width="25%">
-
-**👨‍🏫 Free Education**
-<br/><br/>
-WhatsApp · Telegram · Instagram communities teaching ethical hacking and Linux basics to **100+ people** — free.
-
-</td>
-<td align="center" width="25%">
-
-**🔧 Hardware Repair**
-<br/><br/>
-Repairs mobile phones, laptops, and electronics back to working condition. Hardware tinkerer since school.
-
-</td>
-</tr>
-</table>
-</div>
+<h2 align="center">💼 Freelance & Technical Writing</h2>
 
 <div align="center">
 
-`IBM Volunteer 2024` · `Freelance Web Developer (e-commerce + company sites)` · `Hardware Repair Specialist`
-
-> *"Security knowledge gatekept is security knowledge wasted."*
+| 💻 Freelance Work | ✍️ Technical Writing | 🔧 Open Source (Planned) |
+|:-----------------|:---------------------|:-------------------------|
+| **Web Development** – Built e‑commerce sites & company landing pages (paid clients)<br/>**Hardware Repair** – Mobile phones, laptops, electronics (paid services)<br/>**Security Consulting** – Available for penetration testing, WAF setup, cloud security reviews | *Coming soon:*<br/>• Building an AI‑Powered WAF – Architecture & Lessons<br/>• OWASP Top 10 for Modern Web Apps<br/>• Deploying ML Models with Docker & FastAPI<br/>• IBM Z Datathon 2025 – A Technical Retrospective | • Contributing to OWASP projects<br/>• Submitting PRs to FastAPI / Streamlit<br/>• Writing security tools in Python |
 
 </div>
+
+> **📢 Note:** I no longer offer free account recovery or phone tracing. If you need professional cybersecurity services, please reach out via [LinkedIn](https://www.linkedin.com/in/sriram-v-38305a220/) or email. **Paid consulting only.**
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -685,20 +653,19 @@ Repairs mobile phones, laptops, and electronics back to working condition. Hardw
 
 <div align="center">
 
-<img width="80%" src="https://streak-stats.demolab.com?user=Darkwebnew&hide_border=true&border_radius=6&background=0D1117&ring=00f5d4&fire=00f5d4&currStreakLabel=00f5d4&sideLabels=c9d1d9&dates=555555&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="Streak"/>
+<img width="80%" src="https://streak-stats.demolab.com?user=Darkwebnew&hide_border=true&border_radius=6&background=0D1117&ring=00f5d4&fire=00f5d4&currStreakLabel=00f5d4&sideLabels=c9d1d9&dates=555555&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img height="175px" src="https://github-readme-stats-sage-six-15.vercel.app/api?username=Darkwebnew&theme=github_dark&show_icons=true&rank_icon=github&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00f5d4&icon_color=5291ff&text_color=c9d1d9"/>
-<img height="175px" src="https://github-readme-stats-sage-six-15.vercel.app/api/top-langs?username=Darkwebnew&show_icons=true&layout=compact&langs_count=10&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00f5d4&text_color=c9d1d9"/>
+<img height="175px" src="https://github-readme-stats-sage-six-15.vercel.app/api?username=Darkwebnew&theme=github_dark&show_icons=true&rank_icon=github&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00f5d4&icon_color=5291ff&text_color=c9d1d9" alt="GitHub Stats"/>
+
+<img height="175px" src="https://github-readme-stats-sage-six-15.vercel.app/api/top-langs?username=Darkwebnew&show_icons=true&layout=compact&langs_count=10&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00f5d4&text_color=c9d1d9" alt="Top Languages"/>
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Darkwebnew&bg_color=0d1117&color=00f5d4&line=00f5d4&point=FFFFFF&area=true&area_color=00f5d4&hide_border=true&custom_title=Sriram's%20Contribution%20Activity" alt="Activity"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Darkwebnew&bg_color=0d1117&color=00f5d4&line=00f5d4&point=FFFFFF&area=true&area_color=00f5d4&hide_border=true&custom_title=Sriram's%20Contribution%20Activity" alt="GitHub Activity Graph"/>
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Darkwebnew&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+</div>
 
 </div>
 
@@ -842,7 +809,16 @@ Repairs mobile phones, laptops, and electronics back to working condition. Hardw
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5d4,50:5291ff,100:060810&height=120&section=footer" width="100%"/>
+<!-- 🐍 GitHub Contribution Snake (Full Width) -->
+<div align="center" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Darkwebnew/Darkwebnew/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Darkwebnew/Darkwebnew/output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Darkwebnew/Darkwebnew/output/github-snake.svg" width="100%" />
+  </picture>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060810,30:0a1628,70:0d2040,100:00f5d4&height=120&section=footer" width="100%"/>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Darkwebnew&label=Profile%20Views&color=00f5d4&style=flat-square"/>
