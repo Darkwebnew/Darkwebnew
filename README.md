@@ -30,11 +30,10 @@ engineer = {
     "name":       "Sriram V",
     "alias":      "Darkwebnew / Harish Ammu",
     "dob":        "15 November 2003",
-    "blood":      "A+",
     "location":   "Chennai, Tamil Nadu, India 🇮🇳",
     "diploma":    "Mechatronics Engineering · TVS CPAT · 81% · 2022",
     "degree":     "B.E. CSE Cybersecurity · Saveetha Engineering College · 2026",
-    "cgpa":       7.22,
+    "cgpa":       7.59,
     "roll":       "212222103002",
 
     "record": {
@@ -94,7 +93,7 @@ A **Mechatronics Diploma** (TVS CPAT, 81%) gave me the hardware foundation most 
 
 **IBM Z Datathon 2025 — 2nd Place Nationally.** Built an AI cardiac MRI classifier on IBM Z Mainframe. Won $500 + IBM mentorship + LICC access. That led to two IEEE publications on AI-powered security systems and a trip to IBM Bangalore Labs.
 
-Between competitions: **ML-powered WAF that blocks zero-day exploits**, **clinical AI reducing diagnosis time from hours to 60 seconds**, **LLM fine-tuning with Gemma3 + JAX on TPU**, and **IoT assistive footwear with piezoelectric self-charging**. Free community teaching — helped **100+ people** recover hacked accounts and trace stolen phones using only Linux.
+Between competitions: **ML-powered WAF that blocks zero-day exploits**, **clinical AI reducing diagnosis time from hours to 60 seconds**, **LLM fine-tuning with Gemma3 + JAX on TPU**, and **IoT assistive footwear with piezoelectric self-charging**. I also provide technical guidance on digital security best practices to online communities.
 
 **One direction: security that learns faster than attackers attack.**
 
@@ -144,7 +143,7 @@ Between competitions: **ML-powered WAF that blocks zero-day exploits**, **clinic
 
 ```
 ┌─────────────────────┐
-│   PROOF > POLISH    │
+│   PROOF OVER POLISH │
 │─────────────────────│
 │ National award.     │
 │ IEEE publications.  │
@@ -168,7 +167,7 @@ Between competitions: **ML-powered WAF that blocks zero-day exploits**, **clinic
 <div align="center">
 <table>
 <tr>
-<td align="center" width="20%">
+<td align="center" width="16%">
 
 **🛡️ Cybersecurity**
 <br/><br/>
@@ -181,7 +180,7 @@ Aircrack-ng · John TR<br/>
 <sub>Think like attacker.<br/>Build like defender.</sub>
 
 </td>
-<td align="center" width="20%">
+<td align="center" width="16%">
 
 **🤖 AI / ML Security**
 <br/><br/>
@@ -194,7 +193,7 @@ Healthcare AI · WAF AI<br/>
 <sub>Intelligence beats<br/>signatures always.</sub>
 
 </td>
-<td align="center" width="20%">
+<td align="center" width="16%">
 
 **☁️ Cloud & DevOps**
 <br/><br/>
@@ -207,7 +206,7 @@ Prometheus · Grafana<br/>
 <sub>Cloud-native.<br/>DevSecOps ready.</sub>
 
 </td>
-<td align="center" width="20%">
+<td align="center" width="16%">
 
 **📡 IoT & Embedded**
 <br/><br/>
@@ -220,7 +219,7 @@ Sensor Security<br/>
 <sub>Edge to cloud.<br/>Every node secured.</sub>
 
 </td>
-<td align="center" width="20%">
+<td align="center" width="16%">
 
 **⚙️ Mechatronics**
 <br/><br/>
@@ -231,6 +230,19 @@ PLC · Siemens · HMI<br/>
 Pneumatics · Robotics<br/>
 <br/>
 <sub>Hardware foundation<br/>nobody else has.</sub>
+
+</td>
+<td align="center" width="16%">
+
+**🌐 Full Stack**
+<br/><br/>
+MERN (MongoDB·Express·React·Node)<br/>
+Spring Boot · Hibernate · JPA<br/>
+FastAPI · Next.js · Django<br/>
+PostgreSQL · MySQL · Redis<br/>
+REST · GraphQL · WebSockets<br/>
+<br/>
+<sub>End-to-end apps<br/>with security baked in.</sub>
 
 </td>
 </tr>
@@ -245,34 +257,44 @@ Pneumatics · Robotics<br/>
 
 <table>
 <tr>
-<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32"/><br><sub>Python</sub></td>
-<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32"/><br><sub>Java</sub></td>
-<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="32"/><br><sub>C</sub></td>
-<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="32"/><br><sub>C++</sub></td>
-<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32"/><br><sub>JavaScript</sub></td>
-<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32"/><br><sub>TypeScript</sub></td>
-<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="32"/><br><sub>Bash</sub></td>
-<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="32"/><br><sub>Rust</sub></td>
+<td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28"/><br><sub>Python</sub></td>
+<td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="28"/><br><sub>Java</sub></td>
+<td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="28"/><br><sub>C</sub></td>
+<td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="28"/><br><sub>C++</sub></td>
+<td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28"/><br><sub>JS</sub></td>
+<td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="28"/><br><sub>TS</sub></td>
+<td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="28"/><br><sub>Bash</sub></td>
+<td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="28"/><br><sub>Rust</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="32"/><br><sub>TensorFlow</sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="32"/><br><sub>PyTorch</sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="32"/><br><sub>OpenCV</sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32"/><br><sub>Docker</sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="32"/><br><sub>Linux</sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32"/><br><sub>Git</sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="32"/><br><sub>Arduino</sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="32"/><br><sub>RPi</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28"/><br><sub>React</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="28"/><br><sub>Next.js</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="28"/><br><sub>Node.js</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="28"/><br><sub>Express</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="28"/><br><sub>Spring Boot</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="28"/><br><sub>Flask</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="28"/><br><sub>FastAPI</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="28"/><br><sub>Django</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="32"/><br><sub>Flask</sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32"/><br><sub>React</sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="32"/><br><sub>PostgreSQL</sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32"/><br><sub>MySQL</sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="32"/><br><sub>Redis</sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="32"/><br><sub>VS Code</sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="32"/><br><sub>Jupyter</sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="32"/><br><sub>Figma</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="28"/><br><sub>MongoDB</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="28"/><br><sub>PostgreSQL</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="28"/><br><sub>MySQL</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="28"/><br><sub>Redis</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="28"/><br><sub>Firebase</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="28"/><br><sub>Docker</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="28"/><br><sub>K8s</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="28"/><br><sub>Linux</sub></td>
+</tr>
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="28"/><br><sub>TF</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="28"/><br><sub>PyTorch</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="28"/><br><sub>OpenCV</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="28"/><br><sub>Arduino</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="28"/><br><sub>RPi</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28"/><br><sub>Git</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="28"/><br><sub>VS Code</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="28"/><br><sub>Jupyter</sub></td>
 </tr>
 </table>
 
@@ -295,6 +317,10 @@ Pneumatics · Robotics<br/>
 ![PLC](https://img.shields.io/badge/PLC_Ladder_Logic-FF6B35?style=flat-square)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 </div>
 
@@ -309,17 +335,15 @@ Pneumatics · Robotics<br/>
 
 **🥇 Academic Excellence**
 <br/><br/>
-Gold Medal — Tamil Nadu State Level English Proficiency Test · Bharath Institute of English (2012)<br/><br/>
-State Level Handwriting & Essay Writing Certificates · Monalisa Academy (2011)<br/><br/>
-NAG Mega Expo — **Winner (2016)** and **1st Prize (2017)** (won Oxford Dictionary)
+Gold Medal — Tamil Nadu State Level English Proficiency Test (2012)<br/><br/>
+NAG Mega Expo — **Winner (2016)** and **1st Prize (2017)**
 
 </td>
 <td align="center" width="33%">
 
 **🧘 Sports & Discipline**
 <br/><br/>
-Yoga **1st Prize** + Shield — Sports Olympic Federation of India, Puducherry (2017) + Yoga Nakshatra Certification<br/><br/>
-Yoga **2nd Prize** + Shield — Tamil Nadu Sports Olympic Association (2016)<br/><br/>
+Yoga **1st Prize** + Shield — Sports Olympic Federation of India, Puducherry (2017)<br/><br/>
 Football **2nd Prize** + Silver Medal — School Sports Day (2016–2017)
 
 </td>
@@ -327,9 +351,8 @@ Football **2nd Prize** + Silver Medal — School Sports Day (2016–2017)
 
 **📅 Consistency**
 <br/><br/>
-**100% Attendance** from 2nd to 10th Standard — Official school certificate recognizing 9 years of perfect discipline<br/><br/>
-Unified Cyber Olympiad 2014 — Early technology exposure<br/><br/>
-SBI Young Artist · Osho Draw Kids · Bring Star Academy Tamil Handwriting 2nd Prize
+**100% Attendance** from 2nd to 10th Standard — 9 years of perfect discipline<br/><br/>
+Unified Cyber Olympiad 2014 — Early technology exposure
 
 </td>
 </tr>
@@ -355,7 +378,7 @@ timeline
               : Suprajit Engineering — Stores Operations
               : MK Auto Components — Quality Department
               : Final Year Project — Smart Footwear (95/100)
-    2023      : B.E. CSE Cybersecurity — Saveetha (Lateral Entry)
+    2023      : B.E. CSE Cybersecurity — Saveetha
               : SGPA 8.00 in 3rd Semester
               : J.P. Morgan SWE Virtual Experience (Forage)
               : RETECH Solutions — AI Internship (Jun–Jul 2024)
@@ -370,7 +393,7 @@ timeline
               : Google Tunix Hackathon — Gemma3+JAX · 322 Teams
               : SIH 2025 — Shortlisted
               : RETECH Solutions — Cybersecurity Internship (Jan 2026)
-    2026      : B.E. Graduation · CGPA 7.22+
+    2026      : B.E. Graduation · CGPA 7.59+
               : CEH Exam · AWS Security Specialty · OSCP Prep
               : Full-time Cybersecurity / AI Security Role
 ```
@@ -382,7 +405,7 @@ timeline
 | **2019** | **Diploma Mechatronics — 81% First Class Distinction** | Hardware foundation no software engineer has |
 | **2021** | Brakes India — PLC & Electrical Panel Training | Real industrial automation experience |
 | **2022** | Smart Footwear Project — 95/100 · Led 6 members | First engineering project with real-world impact |
-| **2023** | B.E. CSE Cybersecurity — Lateral Entry, SGPA 8.00 | Strong start after diploma |
+| **2023** | B.E. CSE Cybersecurity — SGPA 8.00 | Strong start |
 | **2024** | Google Cybersecurity (9/9) · AWS Solutions Architect (4/4) | 91–100% grades across 13 professional courses |
 | **2024** | RETECH Solutions AI Internship | Real industry exposure |
 | **2025** | **🏆 IBM Z Datathon 2025 — 2nd NATIONAL** | $500 + IBM Mentorship + LICC + Bangalore Labs |
@@ -402,9 +425,9 @@ timeline
 <tr>
 <td width="50%" valign="top">
 
-### 🔵 B.E. CSE — Cybersecurity *(Lateral Entry)*
+### 🔵 B.E. CSE — Cybersecurity
 **Saveetha Engineering College, Chennai**
-`2023 – 2026` · CGPA: **7.22** (~68–72%) · Roll: 212222103002
+`2023 – 2026` · CGPA: **7.59** · Roll: 212222103002
 
 Joined directly in 3rd sem (skipped 1st year).
 
@@ -437,7 +460,7 @@ S3:8.00 → S4:7.04 → S5:7.31 → S6:7.12 → S7:6.89
 **TVS CPAT (T.V. Srinivasan Polytechnic), Chennai**
 `2019 – 2022` · **81% — First Class with Distinction**
 
-3½ year Sandwich program with 3 industrial internships.
+3.5-year program with 3 industrial internships.
 
 **🏆 Top Scores:**
 
@@ -577,7 +600,7 @@ ATS score, keyword gap analysis, resume builder (4 templates), LinkedIn scraping
 | **Jun–Jul 2024** (1 month) | RETECH Solutions, Chennai | AI Intern | ML workflows, deployment concepts, real AI pipeline |
 | **Aug–Dec 2022** (5 months) | MK Auto Components, Ambattur | Quality Department | Quality inspection, manufacturing QC, industrial standards |
 | **Jul–Aug 2022** (3 weeks) | Suprajit Engineering, Kanchipuram | Stores Operations | Inventory, material management, supply chain |
-| **Mar–May 2021** (3 months) | **Brakes India, Padi** | Electrical Department | **Panel board design, PLC ladder logic, industrial control systems (SS+)** |
+| **Mar–May 2021** (3 months) | **Brakes India, Padi** | Electrical Department | **Panel board design, PLC ladder logic, industrial control systems** |
 
 </div>
 
@@ -618,34 +641,8 @@ ATS score, keyword gap analysis, resume builder (4 templates), LinkedIn scraping
 
 </div>
 
-> **📢 Note:** I no longer offer free account recovery or phone tracing. If you need professional cybersecurity services, please reach out via [LinkedIn](https://www.linkedin.com/in/sriram-v-38305a220/) or email. **Paid consulting only.**
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<h2 align="center">💡 Academic Context — Resilience Over Perfection</h2>
-
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                                                                             │
-│   ANALYSIS OF ALGORITHMS (U — Sem 7)                                        │
-│   Internal marks: 95%+ average · Perfect lab records · Skill Assess: 100    │
-│   External exam MISSED due to: Right hand fracture during Sem 7 exams       │
-│   This U does NOT reflect knowledge. Internal performance proves mastery.   │
-│                                                                             │
-│   ACADEMIC TRAJECTORY (Lateral Entry — Started from 3rd Semester):          │
-│   Sem3: 8.00 → Sem4: 7.04 → Sem5: 7.31 → Sem6: 7.12 → CGPA: 7.22            │
-│                                                                             │
-│   While maintaining 7+ CGPA, I simultaneously:                              │
-│   → Won IBM Z Datathon 2025 — 2nd Place National                            │
-│   → Published 2 IEEE papers (WAF AI + CSSS)                                 │
-│   → Built 12+ production-grade projects                                     │
-│   → Completed 50+ professional certifications                               │
-│                                                                             │
-│   "My projects speak louder than my exam grades."                           │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
+> **📢 Available for Professional Engagements**  
+> I offer professional cybersecurity consulting (penetration testing, WAF setup, cloud security reviews). For paid engagements, contact me via [LinkedIn](https://www.linkedin.com/in/sriram-v-38305a220/) or email.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
