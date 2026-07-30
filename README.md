@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:060810,30:0a1628,70:0d2040,100:00f5d4&height=220&section=header&text=SRIRAM%20V&fontSize=80&fontColor=00f5d4&fontAlignY=38&desc=AI%20Security%20Engineer%20%20%E2%80%A2%20%20Cybersecurity%20Specialist%20%20%E2%80%A2%20%20Cloud%20Architect&descSize=15&descColor=c9d1d9&descAlignY=60&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.vercel.app?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=1200&color=00F5D4&center=true&vCenter=true&width=800&height=28&lines=%5B+PRIZE+%5D+IBM+Z+Datathon+2025+—+National+2nd+Place+%7C+%24500+%2B+IBM+Mentorship;%5B+PAPER+%5D+2+IEEE+Publications+%7C+WAF+AI+%2B+CSSS;%5B+BUILD+%5D+12%2B+Projects+%7C+50%2B+Certs+%7C+195%2B+Repos;%5B+EDGE+%5D+Mechatronics+81%25+%2B+B.E.+Cybersecurity+%3D+Hardware+%2B+Secure;%5B+STATUS+%5D+Open+to+Work+—+Chennai+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.vercel.app?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=1200&color=00F5D4&center=true&vCenter=true&width=800&height=28&lines=%5B+PRIZE+%5D+IBM+Z+Datathon+2025+—+National+2nd+Place+%7C+%24500+%2B+IBM+Mentorship;%5B+PAPER+%5D+2+IEEE+Publications+%7C+WAF+AI+%2B+CSSS;%5B+BUILD+%5D+12%2B+Projects+%7C+55%2B+Certs+%7C+195%2B+Repos;%5B+EDGE+%5D+Mechatronics+81%25+%2B+B.E.+Cybersecurity+%3D+Hardware+%2B+Secure;%5B+STATUS+%5D+Open+to+Work+—+Chennai+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG"/>
 
 <br/>
 
@@ -68,7 +68,7 @@ engineer = {
 <sub>WAF AI Conference + Journal + CSSS</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://img.shields.io/badge/🎓_50%2B-Certifications-FFD700?style=for-the-badge&labelColor=0d1117"/><br/>
+<img src="https://img.shields.io/badge/🎓_55%2B-Certifications-FFD700?style=for-the-badge&labelColor=0d1117"/><br/>
 <sub>Google · AWS · CEH · Scrum · More</sub>
 </td>
 <td align="center" width="20%">
@@ -393,7 +393,7 @@ timeline
               : Google Tunix Hackathon — Gemma3+JAX · 322 Teams
               : SIH 2025 — Shortlisted
               : RETECH Solutions — Cybersecurity Internship (Jan 2026)
-    2026      : B.E. Graduation · CGPA 7.59+
+    2026      : B.E. Graduation · CGPA 7.59 · Sem 8 SGPA: 8.39
               : CEH Exam · AWS Security Specialty · OSCP Prep
               : Full-time Cybersecurity / AI Security Role
 ```
@@ -432,7 +432,7 @@ timeline
 Joined directly in 3rd sem (skipped 1st year).
 
 ```
-S3:8.00 → S4:7.04 → S5:7.31 → S6:7.12 → S7:6.89
+S3:8.00 → S4:7.04 → S5:7.31 → S6:7.12 → S7:6.89 → S8:8.39
 ```
 
 | Subject | Grade | ~% |
@@ -448,9 +448,13 @@ S3:8.00 → S4:7.04 → S5:7.31 → S6:7.12 → S7:6.89
 | Cryptography | B+ | 60–69% |
 | IoT Security | B+ | 60–69% |
 | Blockchain for Business | B+ | 60–69% |
+| Theory of Computation | A | 70–79% |
 | Scrum Master | A+ | 80–89% |
 | Smart IoT Devices | O | 90–100% |
+| Communicative English | A | 70–79% |
+| Modern Trends in Physical Education | A+ | 80–89% |
 | Project Work I (WAF AI) | A+ | 80–89% |
+| Project Work II (CSSS) | O | 90–100% |
 | Mini Project (HeartSeg) | A | 70–79% |
 
 </td>
@@ -521,6 +525,7 @@ ML WAF blocking SQLi, XSS, CSRF & zero-days. Isolation Forest + Random Forest. A
 
 ### [`Clinical-Scan-Support-System`](https://github.com/Darkwebnew/Projectwork2)
 <img src="https://img.shields.io/badge/IEEE-ACCEPTED_%7C_100%2F100%2F100-FF6B35?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/FINAL_YEAR_PROJECT-O%20Grade-4EAA25?style=flat-square&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/89.51%25_Accuracy-217%2C875_Images-4EAA25?style=flat-square&labelColor=0d1117"/>
 
 Full-stack AI diagnostics. 4-role hospital workflow, OTP 2FA, WeasyPrint auto PDF, email delivery. Trained on 217,875 medical images. Grad-CAM explainability.
@@ -585,6 +590,18 @@ ATS score, keyword gap analysis, resume builder (4 templates), LinkedIn scraping
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### [`Drones-for-Agriculture`](https://github.com/Darkwebnew)
+<img src="https://img.shields.io/badge/SEMESTER_8-A%20Grade-00f5d4?style=flat-square&labelColor=0d1117"/>
+
+Smart farming concepts, UAV types, multispectral/thermal/LiDAR sensors, precision agriculture techniques, and autonomous flight planning for crop health monitoring.
+
+`IoT` `Drones` `Agriculture Tech` `Sensors`
+
+</td>
+</tr>
 </table>
 </div>
 
@@ -596,7 +613,7 @@ ATS score, keyword gap analysis, resume builder (4 templates), LinkedIn scraping
 
 | Period | Organization | Role | Key Learning |
 |:-------|:-------------|:-----|:-------------|
-| **Jan 2026** (2 weeks) | RETECH Solutions, Chennai | Cybersecurity Intern | Penetration testing, security workflows, hands-on exposure |
+| **Jan 2026** (2 weeks) | RETECH Solutions, Chennai | Cybersecurity Intern / Inplant Training | Penetration testing, security workflows, hands-on exposure |
 | **Jun–Jul 2024** (1 month) | RETECH Solutions, Chennai | AI Intern | ML workflows, deployment concepts, real AI pipeline |
 | **Aug–Dec 2022** (5 months) | MK Auto Components, Ambattur | Quality Department | Quality inspection, manufacturing QC, industrial standards |
 | **Jul–Aug 2022** (3 weeks) | Suprajit Engineering, Kanchipuram | Stores Operations | Inventory, material management, supply chain |
